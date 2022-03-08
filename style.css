@@ -1,0 +1,13 @@
+/*
+    Theme Name: Pinker
+    Theme URI: https://github.com/Alicesinha/WordpressTheme.git
+    Author: Alice Sousa
+    Author URI: https://github.com/Alicesinha/WordpressTheme.git
+    Description: Theme created for a test and learning of how link css/php to wordpress interface.
+    Version: 1.0
+    Tags: color, pink, rosa, tema rosa, pink theme, responsive
+*/
+
+    body{
+        background: green;
+    } 
